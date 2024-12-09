@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "iconfont";
+    /* Project id 4385492 */
+    /* Color fonts */
+    src: url('iconfont.woff2?t=1704246399903') format('woff2'), url('iconfont.woff?t=1704246399903') format('woff'), url('iconfont.ttf?t=1704246399903') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-daohangAPP:before {
+    content: "\e6ba";
+}
+
+.icon-sousuo:before {
+    content: "\e681";
+}
+
+.icon-daohang1:before {
+    content: "\e65c";
+}
+
+.icon-daohang:before {
+    content: "\e640";
+}
+
+.icon-xia:before {
+    content: "\e624";
+}
+
+.icon-guanbi:before {
+    content: "\e609";
+}
+
+.icon-liebiao:before {
+    content: "\e649";
+}
+
+.icon-fh:before {
+    content: "\e608";
+}
